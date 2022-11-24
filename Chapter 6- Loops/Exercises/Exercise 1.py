@@ -1,5 +1,5 @@
 print("what topping would you like on your pizza?")
-print("enter 'quit' when you are finished: ")
+print("enter 'quit' when you are done: ")
 
 while True:
     topping = input()
