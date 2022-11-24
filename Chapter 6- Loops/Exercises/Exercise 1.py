@@ -1,4 +1,4 @@
-print("what topping would you like on your pizza?")
+print("what topping would you like to have on your pizza?")
 print("enter 'quit' when you are done: ")
 
 while True:
