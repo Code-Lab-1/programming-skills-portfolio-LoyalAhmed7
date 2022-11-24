@@ -1,4 +1,4 @@
-alien_color = 'green'                                                  #if block
+alien_color = 'green'                                                 
 if alien_color == 'green':
   print('you have just earned 5 points for killing the alien')
 else:
