@@ -1,0 +1,11 @@
+Invitation = ['Ahmed,' , 'Raheem,' , 'Ali,']
+print(Invitation[0] + " will u accept this invitation to a dinner in my house?")
+print(Invitation[1] + " will u accept this invitation to a dinner in my house?")
+print(Invitation[2] + " will u accept this invitation to a dinner in my house?")
+print(Invitation[0] + " can't make it")
+Invitation.pop(0)
+Invitation.append('Muhammed')
+print(Invitation)
+print(Invitation[0] + " will u accept this invitation to a dinner in my house?")
+print(Invitation[1] + " will u accept this invitation to a dinner in my house?")
+print(Invitation[2] + " will u accept this invitation to a dinner in my house?")
